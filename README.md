@@ -30,5 +30,3 @@ I'm a third-year Computer Engineering student with a strong foundation in **C** 
 - I dream of creating tech that helps people with disabilities regain mobility.
 
 ---
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lucastomasrios.lucastomasrios)
